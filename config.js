@@ -7,22 +7,22 @@ global.autoReadAll = true
 global.antitags = true
 
 
-global.Owner = ['919172673114']
-global.OwnerNumber = ['919172673114']
-global.ownertag = ['919172673114']
-global.BotName = "Chizuru Mizuhara"
+global.Owner = ['+94773614270']
+global.OwnerNumber = ['+94773614270']
+global.ownertag = ['+94773614270']
+global.BotName = "Chi𝚣𝚞𝚛𝚞 Mizu𝚑𝚊𝚛𝚊"
 global.packname = "Ox.Itachi < 3"
-global.author = "Say.Scotch"
-global.OwnerName = "Scotch"
+global.author = "Say.REAL NOTY"
+global.OwnerName = "REAL NOTY"
 global.BotSourceCode = "Oops Sorry I can't give Error 404"
-global.SupportGroupLink = "https://chat.whatsapp.com/JBDzYnTIrawLBptciuMiFA"
+global.SupportGroupLink = "https://chat.whatsapp.com/LHEraDdQfi42tIiJRxmIAl"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from MizuCore.js  otherwise buttons will not work //
 global.prefa = ['-']
 
-global.location = "Mumbai, India"
+global.location = "Colombo, Sri Lanka"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
